@@ -1,0 +1,16 @@
+{
+  "name": "onlineserver",
+  "version": "1.0.0",
+  "description": "The server in the middle to exchange information",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Jordan Archer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.18"
+  }
+}

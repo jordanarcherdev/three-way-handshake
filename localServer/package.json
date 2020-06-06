@@ -1,0 +1,17 @@
+{
+  "name": "localserver",
+  "version": "1.0.0",
+  "description": "The server we are trying to connect to",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Jordan Archer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ngrok": "^3.1.1"
+  }
+}
